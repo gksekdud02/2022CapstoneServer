@@ -176,5 +176,5 @@ create_engine의 인자값으로 DB URL을 추가하여 DB Host에 DB연결을 �
 ![DB연결](https://user-images.githubusercontent.com/69308065/190901977-0b603d62-3898-4a67-8cbf-99052331f770.png)
 ## 데이터베이스 설계
 ![테이블1](https://user-images.githubusercontent.com/69308065/190901303-4bc9d66b-5dc8-49b1-8a2d-1de9e5483511.png)
-![alt text](image.png)
+![image](https://github.com/gksekdud02/2022CapstoneServer/assets/163504626/e306c634-7204-432a-a35e-0cceeea3fc0e)
 
